@@ -19,8 +19,9 @@ It can be used to practice machine learning problem like classification
 > For CMD [conda activate env/]
 > For GitBash [source activate env/]
 
-create a file: 1. setup.py
-			   2. requirements.txt
+create a file: 
+1. setup.py
+2. requirements.txt
 
 
 Pyhton Setup Script documentation --> https://docs.python.org/3/distutils/setupscript.html
