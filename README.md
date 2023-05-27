@@ -17,6 +17,7 @@ It can be used to practice machine learning problem like classification
 
 * Activate Environment
 > For CMD [conda activate env/]
+
 > For GitBash [source activate env/]
 
 create a file: 
